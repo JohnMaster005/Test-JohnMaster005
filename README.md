@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/carloscalderonreyes/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
 ## About Me  
-I am a **QA Tester** with a background in **Interaction Design and Animation**. My experience includes **manual testing, bug reporting, and test case creation**, and I am currently expanding my skills into **cybersecurity**. My goal is to strengthen my technical expertise and transition into a more technical role within **QA or cybersecurity**.  
+I am a **Interaction Design and Animatior** with a background in **QA Tester**. My experience includes **manual testing, bug reporting, and test case creation**, and I am currently expanding my skills into **cybersecurity**. My goal is to strengthen my technical expertise and transition into a more technical role within **QA or cybersecurity**.  
 
 ## Skills  
 
