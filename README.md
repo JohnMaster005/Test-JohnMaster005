@@ -1,60 +1,45 @@
-# Hello, I'm CARLOS
-<a href="https://www.linkedin.com/in/carloscalderonreyes/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm CARLOS  
+<a href="https://www.linkedin.com/in/carloscalderonreyes/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
-[Brief Introduction - Remove this afterwards]
+## About Me  
+I am a **QA Tester** with a background in **Interaction Design and Animation**. My experience includes **manual testing, bug reporting, and test case creation**, and I am currently expanding my skills into **cybersecurity**. My goal is to strengthen my technical expertise and transition into a more technical role within **QA or cybersecurity**.  
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## Skills  
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+| Skill                                         | Associated Project |
+|-----------------------------------------------|--------------------|
+| Test Case Creation & Execution                | <a href="https://github.com/your-repo-link">QA Testing Portfolio</a> |
+| Bug Reporting & Documentation                 | <a href="https://github.com/your-repo-link">QA Testing Portfolio</a> |
+| Exploratory Testing & UI Testing              | <a href="https://github.com/your-repo-link">QA Testing Portfolio</a> |
+| Basic Cybersecurity Concepts                  | <a href="https://www.coursera.org/account/accomplishments/your-certificate-link">Google Cybersecurity Certificate</a> |
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## Tools  
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+### QA & Testing  
+<div>
+    <img src="https://img.shields.io/badge/-JIRA-0052CC?&style=for-the-badge&logo=JIRA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TestRail-FF6C37?&style=for-the-badge&logo=TestRail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?&style=for-the-badge&logo=Postman&logoColor=white" />
+</div>  
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
+### Cybersecurity (Learning)  
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF8000?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+</div>  
 
-### Endpoint
+### General  
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+</div>  
 
-### SIEM
+## Certifications  
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CEI_Diploma-4D4D4D?&style=for-the-badge&logoColor=white" />
+</div>  
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Projects  
+- [QA Testing Portfolio](https://github.com/your-repo-link)  
+- [Google Cybersecurity Labs](https://www.coursera.org/account/accomplishments/your-certificate-link)  
