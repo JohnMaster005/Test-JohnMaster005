@@ -8,7 +8,7 @@ Former QA Tester moving into Cybersecurity. Experienced in technical documentati
 
 | Skill | Associated Project |
 | :--- | :--- |
-| **Network Traffic Analysis & Incident Reporting** | [Copia de Cybersecurity incident report](https://drive.google.com/open?id=1c-Z8UHJmbIPvORQ5Qk07kdoK3c48gdBgrjrGpPuC4ng) |
+| **Network Traffic Analysis & Incident Reporting** | [Cybersecurity incident report](https://drive.google.com/open?id=1c-Z8UHJmbIPvORQ5Qk07kdoK3c48gdBgrjrGpPuC4ng) |
 | **Linux Hardening & File Permissions** | [File permissions in Linux](https://drive.google.com/open?id=1u4DyyWJ2XE9Q-Db_KPIhjxQLLfEkHNu2UhZfsA-U1C4) |
 | **SQL Queries & Database Security** | [Apply filters to SQL queries](https://drive.google.com/open?id=1HM8tlRfELr_Rxi8CtoANUla_qWSde_fay3qb7F_0MYY) |
 | **Bug Reporting & Test Execution** | [QA Testing Portfolio](https://github.com/tu-usuario/tu-repo-qa) |
