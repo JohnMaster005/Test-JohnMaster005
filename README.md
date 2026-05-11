@@ -1,4 +1,5 @@
-# Hello, I'm CARLOS 👋 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloscalderonreyes/)
+# Hello, I'm CARLOS
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloscalderonreyes/)
 
 ## About Me
 Former QA Tester moving into Cybersecurity. Experienced in technical documentation, test execution, and identifying system vulnerabilities. My background in Quality Assurance gives me a strong foundation in logical troubleshooting and out-of-the-box thinking. Currently strengthening my technical expertise in network security, Linux, and incident reporting.
@@ -7,9 +8,9 @@ Former QA Tester moving into Cybersecurity. Experienced in technical documentati
 
 | Skill | Associated Project |
 | :--- | :--- |
-| **Network Traffic Analysis & Incident Reporting** | [Copia de Cybersecurity incident report](https://github.com/tu-usuario/Portafolio-Ciberseguridad/blob/main/Copia_de_Cybersecurity_incident_report.pdf) |
-| **Linux Hardening & File Permissions** | [File permissions in Linux](https://github.com/tu-usuario/Portafolio-Ciberseguridad/blob/main/File_permissions_in_Linux.pdf) |
-| **SQL Queries & Database Security** | [Apply filters to SQL queries](https://github.com/tu-usuario/Portafolio-Ciberseguridad/blob/main/Apply_filters_to_SQL_queries.pdf) |
+| **Network Traffic Analysis & Incident Reporting** | [Copia de Cybersecurity incident report](https://drive.google.com/open?id=1c-Z8UHJmbIPvORQ5Qk07kdoK3c48gdBgrjrGpPuC4ng) |
+| **Linux Hardening & File Permissions** | [File permissions in Linux](https://drive.google.com/open?id=1u4DyyWJ2XE9Q-Db_KPIhjxQLLfEkHNu2UhZfsA-U1C4) |
+| **SQL Queries & Database Security** | [Apply filters to SQL queries](https://drive.google.com/open?id=1HM8tlRfELr_Rxi8CtoANUla_qWSde_fay3qb7F_0MYY) |
 | **Bug Reporting & Test Execution** | [QA Testing Portfolio](https://github.com/tu-usuario/tu-repo-qa) |
 
 ## Tools
@@ -26,11 +27,11 @@ Former QA Tester moving into Cybersecurity. Experienced in technical documentati
 - **Documentation:** Technical manuals, safety posters, markdown.
 
 ## Certifications
-- **Google Cybersecurity Professional Certificate** (In progress/Complete)
+- **Google Cybersecurity Professional Certificate** (May 11, 2026)
 - **Bachelor in Interaction Design and Animation**
 
 ## Projects
-- [Cybersecurity Portfolio](https://github.com/tu-usuario/Portafolio-Ciberseguridad)
+- [Cybersecurity Portfolio](https://drive.google.com/open?id=103fleOxP45w-dOTTv_W_MENRWZqlxIFm)
   - Practical exercises including network traffic analysis (DoS analysis), Linux security configurations (Permissions & Hardening), and SQL filters for security audits.
 - [QA Testing Portfolio](https://github.com/tu-usuario/tu-repo-qa)
   - Detailed test cases, bug reporting documentation, and cross-browser testing execution.
